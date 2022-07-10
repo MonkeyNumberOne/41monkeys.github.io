@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: "'cause companies don't start themselves"
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
     framework! Just download a theme and start customizing, no strings attached!
@@ -15,7 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    text: focused on the early stages bring new solutions to market
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -26,24 +26,27 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Lean Startup / Customer Development coach
+        text: Find your Minimum Viable Demographic and the right path to solve their problem
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://41monkeys.com/
+
+      - title: startup advisor / mentor /coach
+        text: You are an expert at somethings but perhaps need a little ...
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+
+      - title: consulting technical co-founder / interim CTO
+        text: are you lacking a someone on your technical side?
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+
+      - title: product manager
+        text: with the technical training and experience to know the tech side and the empathy and expeirence to know your customer and their real problem, I can help you manange your product and help you build what you need now and what you need next < technical product manager >
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
+      - title: software/system architect
+        text: breakdown what needs to be built, what what tech, and how to get it done
         icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: Rails developer (full-stack)
+        text: I have built 3 commercial products from the ground up.
         icon: fa-heart
 
   - type: portfolio.html
@@ -81,10 +84,10 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Download my electronic card (vCard)
     actions:
       - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+        url: /card/KenDecanio.vcf
         class: btn-light
 
   - type: members.html
