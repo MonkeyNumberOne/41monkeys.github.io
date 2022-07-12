@@ -3,27 +3,19 @@ VERSION:3.0
 N:Decanio;Ken;;;
 FN:Ken Decanio
 ORG:41monkeys;
-EMAIL;type=INTERNET;type=WORK;type=pref:ken@41monkeys.com
+EMAIL;type=INTERNET;type=WORK;type=pref:ken.decanio@41monkeys.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:(415) 515-4361
-TEL;type=IPHONE;type=CELL;type=VOICE:(415) 692-4852
-
-URL;TYPE=work,pref:ken.decan.io
-
-NOTE:I'm passionate about startups. It's where all my talents are utilized.
-
-Does your team lack a technical co-founder? I can help you get to the place where you can attract one.
-
-\n\nStartup Advisor\nStartup Mentor\nInterim Technical Co-Founder\nInterim CTO\nProduct Manager\nArchitect\nProduct Development\n\n
-
+URL;TYPE=work,pref:41monkeys.com
+NOTE:'cause companies don't start themselves\n\n
+Startup Advisor\nStartup Mentor\nInterim Technical Co-Founder\nInterim CTO\nProduct Manager\nArchitect\nProduct Development\n\n
 
 URL;type=pref;type=WORK:41monkeys.com
-URL;type=WORK:SFWorkingGroup.com
 item2.URL:twitter.com/kendecanio
 item2.X-ABLabel:twitter
-item3.URL:linkedin.com/in/kendecanio
-item3.X-ABLabel:linkedin
-item4.URL:github.com/justthisguy
-item4.X-ABLabel:github
+item3.URL:github.com/justthisguy
+item3.X-ABLabel:github
+item4.URL:linkedin.com/in/kendecanio
+item4.X-ABLabel:linkedin
 
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4g8cSUNDX1BST0ZJTEUA
  AQEAAA8MYXBwbAIAAABtbnRyUkdCIFhZWiAH2QABAAgAEAAVADthY3NwQVBQTAAAAAAAAAAAAA
