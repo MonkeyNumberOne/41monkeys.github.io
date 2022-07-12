@@ -19,5 +19,10 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - build-in-docker.sh
   - README.md
