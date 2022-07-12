@@ -18,7 +18,7 @@ sections:
     title: At Your Service
     services:
       - title: Lean Startup / Customer Development
-        text: Find your Minimum Viable Demographic and the right path to solve their problem
+        text: Find your <br>Minimum Viable Demographic and the right path to solve their problem
         icon: fa-gem
 
       - title: startup advisor, mentor, coach
@@ -30,7 +30,7 @@ sections:
         icon: fa-laptop-code
 
       - title: product manager / technical PM
-        text: with the tech background and the empathy and expeirence to know your customer and their real problem, I can help you manange your product and help you build what you need now and what you need next < technical product manager >
+        text: with the tech background and empathy to know your customer,  their real problem, I can help you manange your product and help you build what you need now and what you need next
         icon: fa-user-secret
 
       - title: software/system architect
