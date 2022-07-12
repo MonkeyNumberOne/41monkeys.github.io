@@ -4,12 +4,8 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: About
-  url: /#about
+  url: /#
 - title: Services
   url: /#services
-- title: Members
-  url: /#members
-- title: History
-  url: /#timeline
 - title: Contacts
   url: /#contacts
