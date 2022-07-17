@@ -44,7 +44,7 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Connec!
+    title: Let's Connect!
     text: >-
       help me. help you; help me, help you.
     actions:

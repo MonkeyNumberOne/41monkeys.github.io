@@ -17,10 +17,10 @@
 
           <div class="row">
             <div class="col-lg-1 col-md-2 col-sm-2">
-              <p>name:</p>
+              <p class="text-danger">name*:</p>
             </div>
             <div class="col-lg-10 col-md-8 col-sm-9">
-              <input type="text" name="name" id="name" placeholder="Hayden Snow" style="width:100%">
+              <input type="text" name="name" id="name" required placeholder="Hayden Snow" style="width:100%">
             </div>
           </div>
 
@@ -35,10 +35,10 @@
 
           <div class="row">
             <div class="col-lg-1 col-md-2 col-sm-2">
-              <p>email:</p>
+              <p class="text-danger">email*:</p>
             </div>
             <div class="col-lg-10 col-md-8 col-sm-9">
-              <input type="email" name="email" id="email" placeholder="hayden@acme.co" style="width:100%">
+              <input type="email" name="email" id="email" required placeholder="hayden@acme.co" style="width:100%">
             </div>
           </div>
 
@@ -53,10 +53,10 @@
 
           <div class="row">
             <div class="col-lg-1 col-md-2 col-sm-2">
-              <p>message:</p>
+              <p class="text-danger">message*:</p>
             </div>
             <div class="col-lg-10 col-md-8 col-sm-9">
-              <textarea rows="3" cols="60" name="text" placeholder="How can I help you?" style="width:100%; margin-bottom: 10px;"></textarea>
+              <textarea rows="3" cols="60" name="text" required placeholder="How can I help you?" style="width:100%; margin-bottom: 10px;"></textarea>
             </div>
           </div>
 
@@ -72,15 +72,21 @@
             <div class="col-lg-1 col-md-2 col-sm-2">
             </div>
             <div class="col-lg-10 col-md-8 col-sm-9" style="margin-bottom: 10px;">
-               Phone:    <input type="checkbox" name="phone" id="phone" value="yes" checked>
-               &nbsp Telegram: <input type="checkbox" name="Telegram" id="Telegram" value="yes" >
-               &nbsp Signal:   <input type="checkbox" name="Signal" id="Signal" value="yes" >
+              can be used for Phone:    <input type="checkbox" name="phone" id="phone" value="yes" checked>
+              &nbsp Telegram: <input type="checkbox" name="Telegram" id="Telegram" value="yes" >
+              &nbsp Signal:   <input type="checkbox" name="Signal" id="Signal" value="yes" >
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p class="text-danger">* required</p>
             </div>
           </div>
 
 
           <div class="row justify-content-center">
-            <button type="submit" class="btn btn-primary" style="width:50%">CONNECT!</button>
+            <button type="submit" class="btn btn-primary btn-xl js-scroll-trigger" style="width:50%">CONNECT!</button>
           </div>
         </form>
       </div>
