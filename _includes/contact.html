@@ -5,16 +5,88 @@
         <h2 class="mt-0">{{ section.title }}</h2>
         <hr class="divider my-4">
         <p class="text-muted mb-5">{{ section.text }}</p>
+        <p class="text-muted mb-5"></p>
       </div>
     </div>
-    <div class="row justify-content-center">
-      {% for action in section.actions %}
-      {% assign fa = action.icon_type | default: "fas" %}
-      <div class="col ml-auto text-center">
-        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 text-muted"></i>
-        <a class="d-block" href="{{ action.url }}">{{ action.title }}</a>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <form action="https://getform.io/f/f5c9fa6a-b91d-409e-9e1b-6910499759ed" method="POST">
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>name:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <input type="text" name="name" id="name" placeholder="Hayden Snow" style="width:100%">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>company:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <input type="text" name="company" id="company" placeholder="Acme Medium Industies" style="width:100%">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>email:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <input type="email" name="email" id="email" placeholder="hayden@acme.co" style="width:100%">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>where:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <input type="text" name="message" id="message" placeholder="Where did we meet?" style="width:100%">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>message:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <textarea rows="3" cols="60" name="text" placeholder="How can I help you?" style="width:100%; margin-bottom: 10px;"></textarea>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+              <p>phone:</p>
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9">
+              <input type="tel" name="phone" id="phone" placeholder="415.777.3456" style="width:100%">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-1 col-md-2 col-sm-2">
+            </div>
+            <div class="col-lg-10 col-md-8 col-sm-9" style="margin-bottom: 10px;">
+               Phone:    <input type="checkbox" name="phone" id="phone" value="yes" checked>
+               &nbsp Telegram: <input type="checkbox" name="Telegram" id="Telegram" value="yes" >
+               &nbsp Signal:   <input type="checkbox" name="Signal" id="Signal" value="yes" >
+            </div>
+          </div>
+
+
+          <div class="row justify-content-center">
+            <button type="submit" class="btn btn-primary" style="width:50%">CONNECT!</button>
+          </div>
+        </form>
       </div>
-      {% endfor %}
     </div>
   </div>
 </section>
+
+
+

@@ -44,9 +44,9 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Let's Connec!
     text: >-
-      Send us an email and let us know how we can help you.
+      help me. help you; help me, help you.
     actions:
     - title: E-Mail
       icon: fa-envelope
