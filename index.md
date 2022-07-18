@@ -3,9 +3,9 @@ layout: home
 header:
   title: "'cause companies don't <br>start themselves"
   text: >
-    You have skills and you have talents but no one had everything.
+    You have skills and you have talents but no one has everything.
     Our goal is to help you get to your goal, a successful company with
-    an amzing product with product market fit and traction.
+    an amazing product having product/market fit and traction.
   action: # action button is optional
     label: Find Out More
     url: '#services'
@@ -34,7 +34,7 @@ sections:
         icon: fa-user-secret
 
       - title: software/system architect
-        text: breakdown what needs to be built, what what tech to use, and how to get it done
+        text: breakdown what needs to be built, what tech to use, and how to get it done
         icon: fa-boxes
 
       - title: Rails developer (full-stack)
