@@ -1,1 +1,1 @@
-Sitemap: 41monkeys.com/sitemap.xml
+Sitemap: https://41monkeys.com/sitemap.xml
