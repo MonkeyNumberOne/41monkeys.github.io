@@ -17,28 +17,37 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Lean Startup / Customer Development
-        text: Find your <br>Minimum Viable Demographic and the right path to solve their problem
+      - title: Lean Startup / <br>Customer Development
+        text: Find your Minimum Viable Demographic
+              and the right path to solve their problem
+              with a product they value
         icon: fa-gem
 
-      - title: startup advisor, mentor, coach
-        text: You are an expert at somethings but perhaps need a little ...
+      - title: startup advisor, mentor, coach<br><br>
+        text: You are an expert at somethings but
+              perhaps need a little help or an outside
+              view to get you to a success faster than on your own
         icon: fa-paper-plane
 
       - title: consulting tech co-founder / interim CTO
-        text: Does your team lack a technical co-founder? <br>I can help you get to the place where you can attract one.
+        text: Does your team lack a <br>technical co-founder? I can help you get to the place where you can attract one.
         icon: fa-laptop-code
 
-      - title: product manager / technical PM
-        text: with the tech background and empathy to know your customer,  their real problem, I can help you manange your product and help you build what you need now and what you need next
+      - title: product manager / <br>technical PM
+        text: With a solid tech background and empathy
+              to know your customer, find their real
+              problem, I can help you manange your
+              product and build what you need now
+              and what you need next
         icon: fa-user-secret
 
-      - title: software/system architect
+      - title: software/system architect<br><br>
         text: breakdown what needs to be built, what tech to use, and how to get it done
         icon: fa-boxes
 
-      - title: Rails developer (full-stack)
-        text: I have built 3 commercial products from the ground up.
+      - title: Rails developer (full-stack)<br><br>
+        text: Have built 3 commercial products from the
+              ground up from product definition, architecture through to shipping
         icon: fa-terminal
 
 
