@@ -55,7 +55,7 @@ sections:
     section_id: contacts
     title: Let's Connect!
     text: >-
-      help me. help you; help me, help you.
+      help me. help you &nbsp&nbsp .. &nbsp&nbsp help me, help you.
     actions:
     - title: E-Mail
       icon: fa-envelope
