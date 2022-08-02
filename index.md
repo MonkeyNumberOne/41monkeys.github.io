@@ -26,17 +26,17 @@ sections:
       - title: startup advisor, mentor, coach<br><br>
         text: You are an expert at somethings but
               perhaps need a little help or an outside
-              view to get you to a success faster than on your own
+              view to get you to success faster than on your own
         icon: fa-paper-plane
 
       - title: consulting tech co-founder / interim CTO
-        text: Does your team lack a <br>technical co-founder? I can help you get to the place where you can attract one.
+        text: Does your team lack a <br>technical co-founder? We can help you get to the place where you can attract one.
         icon: fa-laptop-code
 
       - title: product manager / <br>technical PM
         text: With a solid tech background and empathy
               to know your customer, find their real
-              problem, I can help you manange your
+              problem, We can help you manange your
               product and build what you need now
               and what you need next
         icon: fa-user-secret
